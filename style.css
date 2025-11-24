@@ -114,6 +114,10 @@ nav a {
   padding: 2rem;
 }
 
+.project-card img{
+  transform: rotate(90deg);
+}
+
 .project-info h2 {
   color: #091E42;
 }
